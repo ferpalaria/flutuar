@@ -14,9 +14,6 @@ body {
   margin: 0 auto;
 
   text-align: center;
-
-  width: ;
-  
 }
 
 
@@ -50,7 +47,7 @@ p strong {
   color: #3F3D56;
 }
 
-p .cinza {
+p strong + strong {
   color: #828282;
 }
 
