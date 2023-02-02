@@ -1,6 +1,6 @@
 # Projeto Flutuar - Rocketseat 
 
-<img src="./readme/sample.png">
+<img src="./readme/home.png">
 
 ## About <a name = "about"></a>
 

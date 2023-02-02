@@ -9,14 +9,19 @@ body {
   color: #828282;
   font-size: 15px;
 
-  width: 626px;
-
-  /* text-align: justify; */
+  width: 540px;
 
   margin: 0 auto;
+
+  text-align: center;
+
+  width: ;
+  
 }
 
-header img {
+
+.container img {
+  margin-top: 64px;
   margin-bottom: 32px;
 }
 
@@ -57,17 +62,19 @@ p .cinza {
   border: 1px solid #ECEFF2;
 } 
 
-#footer img {
+#wave {
   position: fixed;
   left: 0;
   bottom: 0;
   width: 100%;
 }
 
-#footer {
-  display: flex;
-  align-items: center;
-  gap: 42px;
+a + a {
+  margin-left: 42px;
+}
 
+#links a {
+  font-weight: bold;
+  text-decoration: none;
 }
 
