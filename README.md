@@ -1,4 +1,4 @@
-# Aula 01 - Rocketseat 
+# Projeto Flutuar - Rocketseat 
 
 <img src="./readme/sample.png">
 
@@ -6,4 +6,4 @@
 
 Projeto usando apenas HTML e CSS para aprendizado
 
-Referência - [Figma](https://www.figma.com/file/fAvYZz4dPV5MfhL77XkqkD/Explorer---Projeto-01?node-id=0%3A1)
+Referência - [Figma](figma.com/file/TN8URrVAWTttqnCvf2WMv5/Projeto01-Extra-Copy?fuid=823996945482469468)
