@@ -6,4 +6,4 @@
 
 Projeto usando apenas HTML e CSS para aprendizado
 
-Referência - [Figma](figma.com/file/TN8URrVAWTttqnCvf2WMv5/Projeto01-Extra-Copy?fuid=823996945482469468)
+[Referência](figma.com/file/TN8URrVAWTttqnCvf2WMv5/Projeto01-Extra-Copy?fuid=823996945482469468)
