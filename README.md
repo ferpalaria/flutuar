@@ -1,4 +1,4 @@
-# Projeto Flutuar - Rocketseat 
+# Projeto Flutuar 
 
 <img src="./readme/home.png">
 
